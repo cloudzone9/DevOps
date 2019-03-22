@@ -1,0 +1,13 @@
+---
+name: Visakhapatnam
+ModeofTransport: 
+- Train
+- Bus
+- Flight
+Placestovisit:
+- name: RK Beach
+  Importance: Nice place to visit in summer.
+- name: Kailasagiri
+  Importance: Its a picnic spot. 
+  
+ 
